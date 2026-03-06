@@ -17,4 +17,5 @@
 
 ### 📬 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/isha-sheikh-003230315)
+- [Password Generator](https://github.com/isha-sheikh/password-generator) - A simple Python tool to create secure passwords.
 - 📧 Email: ishasheikh117@gmail.com
