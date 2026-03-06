@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Isha Sheikh! 👋
 
-<!--
-**isha-sheikh/isha-sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=isha-sheikh&color=blueviolet)
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🔭 I’m currently a student exploring the world of technology.
+- 🌱 I’m currently learning **Web Development** and **Python**.
+- 👯 I’m looking to collaborate on beginner-friendly open-source projects.
+- ⚡ **Fun fact:** I just set up this GitHub account today!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+| Tool | Logo |
+| :--- | :--- |
+| **HTML5** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **CSS3** | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Python** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+### 📬 How to reach me
+- [LinkedIn](www.linkedin.com/in/isha-sheikh-003230315)
+- 📧 Email: ishasheikh117@gmail.com
