@@ -16,5 +16,5 @@
 | **Python** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ### 📬 How to reach me
-- [LinkedIn](www.linkedin.com/in/isha-sheikh-003230315)
+- [LinkedIn](https://www.linkedin.com/in/isha-sheikh-003230315)
 - 📧 Email: ishasheikh117@gmail.com
